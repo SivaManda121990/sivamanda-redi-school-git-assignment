@@ -18,3 +18,5 @@ git log --oneline
 
 git reset HEAD <file>
   - Unstages a file from the staging area.
+
+These are Git commands with explanation.
